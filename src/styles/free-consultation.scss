@@ -1,0 +1,50 @@
+.free-consultation {
+    padding-top: 55px;
+    padding-bottom: 36px;
+    background-image: url("../../src/image/consultation-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.free-consultation__container {
+    text-align: center;
+}
+
+.free-consultation__heading {
+    margin-bottom: 30px;
+}
+
+.free-consultation__text {
+    margin-bottom: 35px;
+}
+
+
+.free-consultation__input {
+    padding-top: 9px;
+    padding-right: 20px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    transform: translate(5px);
+}
+.free-consultation__label{
+
+    transform: translate(5px);
+}
+
+.free-consultation__button {
+    padding: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.free-consultation__text--bottom {
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 30px;
+
+}
