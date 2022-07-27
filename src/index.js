@@ -1,1 +1,1 @@
-import("/src/general.scss")
+import("/src/index.scss")
