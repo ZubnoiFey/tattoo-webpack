@@ -1,7 +1,7 @@
 .our-instagram {
     padding-top: 135px;
     padding-bottom: 150px;
-    background-image: url(".././image/instagram-bg.png");
+    background-image: url("tattoo-image/instagram-bg.png");
     background-position: right  top ;
     background-repeat: no-repeat;
 }
@@ -32,11 +32,18 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
+    @media (max-width: 900px) {
+        display: flex;
+        gap: 20px;
+    }
 }
 
 
 .our-instagram__item {
     height: 300px;
+    @media (max-width: 900px) {
+        height: 260px;
+    }
 }
 
 .our-instagram__image {

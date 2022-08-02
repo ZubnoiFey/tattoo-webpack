@@ -1,80 +1,105 @@
 .services {
-    padding-top: 55px;
-    padding-bottom: 195px;
+  padding-top: 55px;
+  padding-bottom: 195px;
+  @media (max-width: 900px) {
+    padding-bottom: 80px;
+  }
 }
 
 .services__heading {
-    text-align: center;
+  text-align: center;
+
 }
 
 .services__heading:after {
-    content: "";
+  content: "";
   display: block;
-    background-color: rgba(218, 52, 20, 1);
-    width: 175px;
-    height: 1px;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    margin-right: auto;
-    margin-left: auto;
+  background-color: rgba(218, 52, 20, 1);
+  width: 175px;
+  height: 1px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
 .services__button {
   visibility: hidden;
-    opacity: 0;
-    transition: all .3s;
+  opacity: 0;
+  transition: all .3s;
 }
 
 .services li:hover button {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
 
 .services__item:hover {
-    transition: transform .2s;
-    transform: scale(1.2);
+  transition: transform .2s;
+  transform: scale(1.2);
 }
 
 .services__item {
-    height: 340px;
+  height: 340px;
+  width: 100%;
+  @media (max-width: 900px) {
+    width: 90%;
+  }
 }
 
 
 .services__item img {
-    background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5) );
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: top;
-    height: 100%;
-    width: 100%;
+  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+  height: 100%;
+  width: 100%;
+  @media (max-width: 900px) {
+    height: 80%;
+    width: 90%;
+  }
 }
 
 .services__list {
+  display: flex;
+  gap: 75px;
+  @media (max-width: 900px) {
+    gap: 50px;
+  }
+  @media (max-width: 600px) {
     display: flex;
-    gap: 75px;
+    flex-direction: column;
+  }
 }
 
 .services__subheading {
-    font-size: 25px;
-    line-height: 1.2;
-    color: #FFFFFF;
-    font-weight: 500;
-    transform: translate(60px,-260px);
-
+  font-size: 25px;
+  line-height: 1.2;
+  color: #FFFFFF;
+  font-weight: 500;
+  transform: translate(60px, -260px);
+  width: 100%;
+  @media (max-width: 900px) {
+    display: flex;
+    flex-wrap: wrap;
+    transform: translate(60px, -260px);
+    overflow-wrap: break-word;
+  }
 }
 
 .services__button-wrapper {
-    transform: translate(0px,-150px);
-    display: flex;
-    justify-content: center;
+  transform: translate(0px, -150px);
+  display: flex;
+  justify-content: center;
 }
 
 .services__button {
-    padding-top: 15px;
-    padding-right: 30px;
-    padding-bottom: 15px;
-    padding-left: 30px;
-    border-radius: 8px;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  border-radius: 8px;
 }

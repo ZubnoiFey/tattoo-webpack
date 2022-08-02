@@ -1,6 +1,6 @@
 
 .hero {
-    background-image: url(".././image/hero-background.png");
+    background-image: url("/src/tattoo-image/hero-background.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 40px;
@@ -19,6 +19,7 @@
 
 .hero__container {
     width: 570px;
+
 }
 
 .hero__heading {
@@ -28,9 +29,19 @@
     font-weight: 500;
     margin-bottom: 30px;
     width: 570px;
+    @media (max-width: 900px){
+        font-size: 40px;
+    }
+    @media (max-width: 600px){
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 .hero__text {
     width: 570px;
     margin-bottom: 40px;
+    @media (max-width: 600px){
+        width: 60%;
+    }
 }

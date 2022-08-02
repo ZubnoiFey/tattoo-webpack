@@ -1,9 +1,13 @@
 footer {
-    padding-top: 90px;
-    padding-bottom: 90px;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  @media (max-width: 900px) {
+    padding-top: 45px;
+    padding-bottom: 45px;
+  }
 }
 
 .footer__list {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
