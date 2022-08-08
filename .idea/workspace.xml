@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8c016d6-22df-43ff-b0c8-5ddc571c6f71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/contacts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/contacts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/free-consultation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/free-consultation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/our-instagram.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/our-instagram.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/services.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/Rectangle40.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/Rectangle40.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/about-us_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/about-us_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/about__us.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/about__us.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/consultation-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/consultation-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/fb-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/fb-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/header__icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/header__icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/hero-background.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/hero-background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/instagram-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/instagram-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/our-instagram-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/our-instagram-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/our-services__tattoo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/our-services__tattoo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/piercing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/piercing.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/reddit-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/reddit-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/tattoo_removal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/tattoo_removal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tattoo-image/twitter-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tattoo-image/twitter-icon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +107,8 @@
       <workItem from="1658831437728" duration="47000" />
       <workItem from="1658924862756" duration="642000" />
       <workItem from="1658925531307" duration="9000" />
-      <workItem from="1659424652311" duration="4155000" />
+      <workItem from="1659424652311" duration="4272000" />
+      <workItem from="1659680044095" duration="20000" />
     </task>
     <servers />
   </component>
